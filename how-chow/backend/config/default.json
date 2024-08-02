@@ -1,0 +1,10 @@
+{
+    "port":3000,
+    "env":"development",
+    "name":"HowChow",
+    "jwtPrivateKey": "macroMenu_jwtPrivateKey",
+    "requiresAuth": true,
+    "frontEndHtmlRoot": "http://localhost:3001/",
+    "backEndHtmlRoot": "http://localhost:5001/",
+    "dBConnectionString":"mongodb+srv://howChowAdmin:azjHG8nhzwol5iSJ@howchow.4nrcki6.mongodb.net/HowChowDev?retryWrites=true&w=majority"
+}
